@@ -33,3 +33,13 @@ Our analysis aims to answer the below research questions:
 11. GDP per Capita ($):
 Gross Domestic Product (GDP) per capita for the specified year.
 12. Generation: The generation cohort to which the individuals belong.
+
+## The following Insights were revealed through the dashboard:
+1. The total number of suicide cases for the period under review is six million, seven hundred and forty-eight thousand, four hundred and twenty (6,748,420)
+2. The age group with the highest reported cases of suicide is 35 -54 years
+3. The country with the highest number of suicide cases is the Russian Federation.
+4. The year with the highest number of suicide cases is 1999
+5. suicide cases are more common (more than x3) with men than women, 77% to 23%.
+6. Suicide cases per 100k population, the entire population, and GDP tend to exhibit some covariance. There is a sharp drop in the in the number of suicide cases in the year 2015
+7. And the trend continues as could be seen through the forecast.   
+
