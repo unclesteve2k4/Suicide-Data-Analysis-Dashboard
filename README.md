@@ -1,2 +1,2 @@
 # Suicide-Data-Analysis-Dashboard
-This Project show the Suicide data analysis dashboard using Tableau. 
+In this Project, the use of Tableau to present both an eye-catching as  well as highly informative dashboard at a glance is demonstrated. 
