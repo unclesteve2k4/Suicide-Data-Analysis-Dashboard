@@ -34,7 +34,10 @@ Our analysis aims to answer the below research questions:
 Gross Domestic Product (GDP) per capita for the specified year.
 12. Generation: The generation cohort to which the individuals belong.
 
+see The link to the dashboard on Tableau Public:
+https://public.tableau.com/app/profile/stephen.ogodo
 ## The following Insights were revealed through the dashboard:
+## https://public.tableau.com/app/profile/stephen.ogodo
 1. The total number of suicide cases for the period under review is six million, seven hundred and forty-eight thousand, four hundred and twenty (6,748,420)
 2. The age group with the highest reported cases of suicide is 35 -54 years
 3. The country with the highest number of suicide cases is the Russian Federation.
